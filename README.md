@@ -53,8 +53,6 @@ The project is built with a modern, robust technology stack, separating the back
 
 ## 📸 Screenshots
 
-*(**TODO**: Replace these placeholder links with screenshots of your actual running application.)*
-
 | Dashboard | Search & Browse | Book Details |
 | :---: | :---: | :---: |
 | <img src="Images/dash.jpeg" alt="Dashboard" width="250"/> | <img src="Images/search.jpeg" alt="Search" width="250"/> | <img src="Images/bookDetails.jpeg" alt="Book Details" width="250"/> |
@@ -93,11 +91,9 @@ mvn spring-boot:run
 ```
 
 - > The backend will start on http://localhost:5454. 
-<<<<<<< HEAD
+
 - > The Owner (owner@lib.com) and Librarian (admin@lib.com) users will be created automatically on the first run.
-=======
-- > The Owner (owner@library.com) and Librarian (admin@library.com) users will be created automatically on the first run.
->>>>>>> 2983235c3620a151eef1477092cefa502258b4ba
+
 
 ### 2. Frontend Setup
 ```bash
