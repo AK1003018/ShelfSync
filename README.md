@@ -1,4 +1,4 @@
-# ShelfSync - A Modern Library Management System
+# ShelfSync (Or DMCLib) - A Modern Library Management System
 
 A full-stack library management system featuring a self-service mobile app for members (React Native & Expo) and a powerful administrative backend for staff (Java, Spring Boot, MySQL).
 
