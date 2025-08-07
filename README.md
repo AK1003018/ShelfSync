@@ -92,8 +92,8 @@ cd ShelfSync/backend
 mvn spring-boot:run
 ```
 
-The backend will start on http://localhost:5454. 
-The Owner (owner@library.com) and Librarian (admin@library.com) users will be created automatically on the first run.
+- > The backend will start on http://localhost:5454. 
+- > The Owner (owner@lib.com) and Librarian (admin@lib.com) users will be created automatically on the first run.
 
 ### 2. Frontend Setup
 ```bash
