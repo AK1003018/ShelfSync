@@ -1,4 +1,4 @@
-# ShelfSync - A Modern Library Management System
+# ShelfSync (Or DMCLib) - A Modern Library Management System
 
 A full-stack library management system featuring a self-service mobile app for members (React Native & Expo) and a powerful administrative backend for staff (Java, Spring Boot, MySQL).
 
@@ -93,7 +93,11 @@ mvn spring-boot:run
 ```
 
 - > The backend will start on http://localhost:5454. 
+<<<<<<< HEAD
 - > The Owner (owner@lib.com) and Librarian (admin@lib.com) users will be created automatically on the first run.
+=======
+- > The Owner (owner@library.com) and Librarian (admin@library.com) users will be created automatically on the first run.
+>>>>>>> 2983235c3620a151eef1477092cefa502258b4ba
 
 ### 2. Frontend Setup
 ```bash
